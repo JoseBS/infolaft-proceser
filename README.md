@@ -1,6 +1,6 @@
 # Infolaft reportes
 Para usar esta herramienta se requiere el siguiente software:
- - NodeJS
+ - [NodeJS](https://nodejs.org/es)
 
 Antes de la instalción asegurese de tener la herramienta en la carpeta deseada (e.j Documentos)
 # Instalación
