@@ -37,3 +37,4 @@ mkdir filesToProcess
 echo ----------------------------------------------
 echo ----------Instalacion finalizada--------------
 echo ----------------------------------------------
+pause
