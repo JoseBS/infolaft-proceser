@@ -13,7 +13,7 @@ exit
 :install
 echo ----------------------------------------------
 echo -------Instalando dependencias de node--------
-npm i
+cmd /C npm i
 set desktopFolder=%USERPROFILE%\Desktop
 set desktopFolderOneDrive="%USERPROFILE%\OneDrive - Telefonica\Desktop"
 set infolaftToolBat=infolaftTool.bat
