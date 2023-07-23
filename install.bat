@@ -18,7 +18,7 @@ set desktopFolder=%USERPROFILE%\Desktop
 set desktopFolderOneDrive="%USERPROFILE%\OneDrive - Telefonica\Desktop"
 set infolaftToolBat=infolaftTool.bat
 set toolFolder=%~dp0
-set command=.\node.exe .\index.js --nombre NOMBRE.xlsx --nombreId NOMBRE_ID.xlsx --outFile Resultados
+set command=node .\index.js --nombre NOMBRE.xlsx --nombreId NOMBRE_ID.xlsx --outFile Resultados
 echo ----------------------------------------------
 echo ------Eliminando installaciones previas-------
 del %desktopFolder%\%infolaftToolBat%
